@@ -1,0 +1,8 @@
+2014; 13 movies released, 0 tv shows released
+2015; 36 movies released, 8 tv shows released
+2016; 97 movies released, 27 tv shows released
+2017; 267 movies released, 67 tv shows released
+2018; 282 movies released, 116 tv shows released
+2019; 360 movies released, 172 tv shows released
+2020; 321 movies released, 233 tv shows released
+2021; 10 movies and 15 tv shows released so far
